@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="K7MS Perf Testing">
+    <test name="Google Play">
+        <classes>
+            <class name="Android.TempTestClass"/>
+        </classes>
+    </test>
+</suite>
